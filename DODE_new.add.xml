@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-05-25 13:44:23 by Eclipse SUMO netedit Version 1.22.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- StoppingPlaces -->
+    <busStop id="1055325030" name="Central" lane="28127773#1_0" startPos="10.77" endPos="35.77" friendlyPos="true" lines="15"/>
+    <busStop id="1811870009" name="Sihlpost/HB" lane="217447888#1.71_0" startPos="21.03" endPos="46.03" friendlyPos="true" lines="3 14"/>
+    <busStop id="1986680581" name="Langmauerstrasse" lane="144929606_0" startPos="1841.94" endPos="1866.94" friendlyPos="true" lines="10 9"/>
+    <busStop id="2264846614" name="Central" lane="217192012#2_0" startPos="15.72" endPos="40.72" friendlyPos="true" lines="10 6 7"/>
+    <busStop id="2264862050" name="Central" lane="217403570_0" startPos="10.18" endPos="35.18" friendlyPos="true" lines="4"/>
+    <busStop id="2264870172" name="Bahnhofquai/HB" lane="217194726_0" startPos="44.32" endPos="99.32" friendlyPos="true" lines="17 13 4 11 14"/>
+    <busStop id="2264924886" name="Central" lane="10678559#0_0" startPos="0.00" endPos="25.00" friendlyPos="true" lines="3"/>
+    <busStop id="2266734164" name="Rennweg" lane="217400104_0" startPos="307.42" endPos="332.42" friendlyPos="true" lines="6 7 11 13 17"/>
+    <busStop id="2266734171" name="Bahnhofstrasse/HB" lane="372983223_0" startPos="65.33" endPos="90.33" friendlyPos="true" lines="17 6 7 11 13"/>
+    <busStop id="2267027099" name="Sihlquai/HB" lane="1279973152_0" startPos="59.98" endPos="84.98" friendlyPos="true" lines="17 13 4"/>
+    <busStop id="2267027131" name="Museum für Gestaltung" lane="27429404_0" startPos="1131.82" endPos="1156.82" friendlyPos="true" lines="17 13 4"/>
+    <busStop id="2267027134" name="Museum für Gestaltung" lane="217436838_0" startPos="276.03" endPos="301.03" friendlyPos="true" lines="17 13 4"/>
+    <busStop id="2267027159" name="Limmatplatz" lane="27429404_0" startPos="767.24" endPos="792.24" friendlyPos="true" lines="17 13 4"/>
+    <busStop id="2267027162" name="Limmatplatz" lane="217436838_0" startPos="638.43" endPos="663.43" friendlyPos="true" lines="17 13 4"/>
+    <busStop id="2267084736" name="Löwenplatz" lane="372983224_0" startPos="37.43" endPos="62.43" friendlyPos="true" lines="10 14 3"/>
+    <busStop id="2267084743" name="Löwenplatz" lane="371347525_0" startPos="200.96" endPos="225.96" friendlyPos="true" lines="3 14"/>
+    <busStop id="2267154349" name="Sihlpost/HB" lane="217451776#1.325_0" startPos="33.03" endPos="58.03" friendlyPos="true" lines="14 3"/>
+    <busStop id="2268534971" name="Quellenstrasse" lane="27429404_0" startPos="448.77" endPos="473.77" friendlyPos="true" lines="17 13 4"/>
+    <busStop id="2268534972" name="Quellenstrasse" lane="217436838_0" startPos="959.94" endPos="984.94" friendlyPos="true" lines="17 13 4"/>
+    <busStop id="2268534978" name="Löwenbräu" lane="27429404_0" startPos="172.19" endPos="197.19" friendlyPos="true" lines="17 13 4"/>
+    <busStop id="2268534980" name="Löwenbräu" lane="217436838_0" startPos="1235.44" endPos="1260.44" friendlyPos="true" lines="17 13 4"/>
+    <busStop id="2268535003" name="Escher-Wyss-Platz" lane="217436838_0" startPos="1508.36" endPos="1533.36" friendlyPos="true" lines="17 13 4"/>
+    <busStop id="2275416910" name="Stampfenbachplatz" lane="218986594.1253_0" startPos="10.69" endPos="35.69" friendlyPos="true" lines="11 14"/>
+    <busStop id="2275416928" name="Stampfenbachplatz" lane="595798546.34_0" startPos="150.34" endPos="175.34" friendlyPos="true" lines="14 11"/>
+    <busStop id="2275446288" name="Haldenegg" lane="218986593_0" startPos="1304.87" endPos="1329.87" friendlyPos="true" lines="15 7"/>
+    <busStop id="2275446289" name="Haldenegg" lane="218283039_0" startPos="88.38" endPos="113.38" friendlyPos="true" lines="7 15"/>
+    <busStop id="2275453346" name="Haldenegg" lane="167403910_0" startPos="84.83" endPos="109.83" friendlyPos="true" lines="10 6"/>
+    <busStop id="2275466607" name="Rudolf-Brun-Brücke" lane="373181617#2.31.188_0" startPos="550.35" endPos="575.35" friendlyPos="true" lines="4 15"/>
+    <busStop id="2275466608" name="Rudolf-Brun-Brücke" lane="217408192.194_0" startPos="39.60" endPos="64.60" friendlyPos="true" lines="4 15"/>
+    <busStop id="2275569884" name="Paradeplatz" lane="218290153_0" startPos="18.04" endPos="43.04" friendlyPos="true" lines="9 8 2"/>
+    <busStop id="2275569897" name="Paradeplatz" lane="218290149#1_0" startPos="43.87" endPos="68.87" friendlyPos="true" lines="11"/>
+    <busStop id="2275569902" name="Paradeplatz" lane="218290150#3_0" startPos="37.45" endPos="62.45" friendlyPos="true" lines="6 7 13 17"/>
+    <busStop id="2275623062" name="Sihlstrasse" lane="218298740#2.392_0" startPos="11.01" endPos="36.01" friendlyPos="true" lines="2 9"/>
+    <busStop id="2275623065" name="Sihlstrasse" lane="218290152.250_0" startPos="18.96" endPos="43.96" friendlyPos="true" lines="9 2"/>
+    <busStop id="2275723458" name="Stauffacher" lane="218316356#0.53_0" startPos="20.00" endPos="75.39" friendlyPos="true" lines="3 2 9 14"/>
+    <busStop id="2275723464" name="Stauffacher" lane="218316355#6_0" startPos="21.77" endPos="76.77" friendlyPos="true" lines="9 14 3 2"/>
+    <busStop id="2275780065" name="Bahnhof Wiedikon" lane="218322190#4_0" startPos="0.87" endPos="43.87" friendlyPos="true" lines="9 14"/>
+    <busStop id="2275780152" name="Werd" lane="237820126#1_0" startPos="218.69" endPos="243.69" friendlyPos="true" lines="9 14"/>
+    <busStop id="2275780155" name="Werd" lane="218322190#1.20_0" startPos="91.21" endPos="116.21" friendlyPos="true" lines="9 14"/>
+    <busStop id="2275787444" name="Bezirksgebäude" lane="218455036#3.236_0" startPos="15.84" endPos="40.84" friendlyPos="true" lines="3 2"/>
+    <busStop id="2275787449" name="Bezirksgebäude" lane="218320628#0.180_0" startPos="28.10" endPos="53.10" friendlyPos="true" lines="3 2"/>
+    <busStop id="2275787476" name="Kalkbreite/Bhf. Wiedikon" lane="298496090#0_0" startPos="24.83" endPos="49.83" friendlyPos="true" lines="3 2"/>
+    <busStop id="2275787478" name="Kalkbreite/Bhf. Wiedikon" lane="218320628#1_0" startPos="16.70" endPos="41.70" friendlyPos="true" lines="3 2"/>
+    <busStop id="2277024767" name="Lochergut" lane="218455031.149_0" startPos="275.64" endPos="300.64" friendlyPos="true" lines="3 2"/>
+    <busStop id="2277024777" name="Lochergut" lane="218320628#2.104_0" startPos="209.86" endPos="234.86" friendlyPos="true" lines="3 2"/>
+    <busStop id="2277024795" name="Zypressenstrasse" lane="218455031.149_0" startPos="25.82" endPos="50.82" friendlyPos="true" lines="3 2"/>
+    <busStop id="2277024797" name="Zypressenstrasse" lane="218320628#2.104_0" startPos="440.55" endPos="465.55" friendlyPos="true" lines="3 2"/>
+    <busStop id="2280211806" name="ETH/Universitätsspital" lane="218811879_0" startPos="28.15" endPos="53.15" friendlyPos="true" lines="6 9"/>
+    <busStop id="2280211825" name="ETH/Universitätsspital" lane="218284020_0" startPos="22.55" endPos="47.55" friendlyPos="true" lines="10 6"/>
+    <busStop id="2280214780" name="Haldenbach" lane="144929606_0" startPos="303.59" endPos="328.59" friendlyPos="true" lines="10 9"/>
+    <busStop id="2280214788" name="Winkelriedstrasse" lane="218811881_0" startPos="1868.72" endPos="1893.72" friendlyPos="true" lines="10 9"/>
+    <busStop id="2280214795" name="Winkelriedstrasse" lane="144929606_0" startPos="624.12" endPos="649.12" friendlyPos="true" lines="10 9"/>
+    <busStop id="2280219084" name="Seilbahn Rigiblick" lane="218811881_0" startPos="1560.47" endPos="1585.47" friendlyPos="true" lines="10 9"/>
+    <busStop id="2280219093" name="Seilbahn Rigiblick" lane="144929606_0" startPos="949.20" endPos="974.20" friendlyPos="true" lines="10 9"/>
+    <busStop id="2280248174" name="Kinkelstrasse" lane="218811881_0" startPos="1180.71" endPos="1205.71" friendlyPos="true" lines="10 9"/>
+    <busStop id="2280248178" name="Letzistrasse" lane="218811881_0" startPos="973.14" endPos="998.14" friendlyPos="true" lines="10 9"/>
+    <busStop id="2280248184" name="Langmauerstrasse" lane="218811881_0" startPos="652.81" endPos="677.81" friendlyPos="true" lines="10 9"/>
+    <busStop id="2280248204" name="Universität Irchel" lane="218811881_0" startPos="327.11" endPos="352.11" friendlyPos="true" lines="10 9"/>
+    <busStop id="2281278312" name="Kantonsschule" lane="218931354#5_0" startPos="196.40" endPos="221.40" friendlyPos="true" lines="5 9"/>
+    <busStop id="2281278316" name="Kantonsschule" lane="218926425#0_0" startPos="165.45" endPos="190.45" friendlyPos="true" lines="5 9"/>
+    <busStop id="2281278390" name="Platte" lane="218971865_0" startPos="900.99" endPos="925.99" friendlyPos="true" lines="5 6"/>
+    <busStop id="2281278404" name="Platte" lane="218926429_0" startPos="188.92" endPos="213.92" friendlyPos="true" lines="5 6"/>
+    <busStop id="2281314292" name="Kunsthaus" lane="218931372#0_0" startPos="0.00" endPos="25.00" friendlyPos="true" lines="5 9"/>
+    <busStop id="2281314317" name="Kunsthaus" lane="24377559#1.397_0" startPos="2.00" endPos="27.20" friendlyPos="true" lines="5 9"/>
+    <busStop id="2281357423" name="Neumarkt" lane="217408202#0.489_0" startPos="15.21" endPos="40.21" friendlyPos="true" lines="3"/>
+    <busStop id="2281357435" name="Neumarkt" lane="218931365#2.279_0" startPos="10.67" endPos="35.67" friendlyPos="true" lines="3"/>
+    <busStop id="2281784331" name="Kirche Fluntern" lane="218971865_0" startPos="20.13" endPos="45.13" friendlyPos="true" lines="5 6"/>
+    <busStop id="2281789417" name="Voltastrasse" lane="218926429_0" startPos="557.30" endPos="582.30" friendlyPos="true" lines="5 6"/>
+    <busStop id="2281886724" name="Ottikerstrasse" lane="218283039_0" startPos="675.00" endPos="700.00" friendlyPos="true" lines="7 15"/>
+    <busStop id="2281886727" name="Ottikerstrasse" lane="218986593_0" startPos="662.55" endPos="687.55" friendlyPos="true" lines="15 7"/>
+    <busStop id="2295038207" name="Helmhaus" lane="217408192.194_0" startPos="450.86" endPos="475.86" friendlyPos="true" lines="4 15"/>
+    <busStop id="2295038214" name="Helmhaus" lane="373181617#2.31.188_0" startPos="120.67" endPos="145.67" friendlyPos="true" lines="4 15"/>
+    <busStop id="2295038229" name="Rathaus" lane="217408192.194_0" startPos="250.03" endPos="275.03" friendlyPos="true" lines="4 15"/>
+    <busStop id="2295038232" name="Rathaus" lane="373181617#2.31.188_0" startPos="320.28" endPos="345.28" friendlyPos="true" lines="4 15"/>
+    <busStop id="2295061883" name="Bellevue" lane="220382698_0" startPos="4.11" endPos="29.11" friendlyPos="true" lines="5 9"/>
+    <busStop id="2295088475" name="Bellevue" lane="220385415#1.28_0" startPos="58.53" endPos="83.53" friendlyPos="true" lines="11 2 8"/>
+    <busStop id="2295088479" name="Bellevue" lane="220385428#1_0" startPos="27.57" endPos="52.57" friendlyPos="true" lines="4 15"/>
+    <busStop id="2295131139" name="Bahnhof Stadelhofen" lane="220388179_0" startPos="41.34" endPos="66.34" friendlyPos="true" lines="11 15 8"/>
+    <busStop id="2295223402" name="Bürkliplatz" lane="220382697.179_0" startPos="5.87" endPos="30.87" friendlyPos="true" lines="5 11 2 8 9"/>
+    <busStop id="2295502445" name="Kantonalbank" lane="220427535_0" startPos="139.96" endPos="164.96" friendlyPos="true" lines="9 8 11 2"/>
+    <busStop id="2296903015" name="Wildbachstrasse" lane="220583817.88_0" startPos="1647.40" endPos="1672.40" friendlyPos="true" lines="4 2"/>
+    <busStop id="2296903018" name="Wildbachstrasse" lane="220388177#0_0" startPos="325.89" endPos="350.89" friendlyPos="true" lines="4 2"/>
+    <busStop id="2296903024" name="Fröhlichstrasse" lane="220583817.88_0" startPos="1375.86" endPos="1400.86" friendlyPos="true" lines="4 2"/>
+    <busStop id="2296903027" name="Fröhlichstrasse" lane="220388177#0_0" startPos="595.68" endPos="620.68" friendlyPos="true" lines="4 2"/>
+    <busStop id="2296903044" name="Höschgasse" lane="220583817.88_0" startPos="1007.19" endPos="1032.19" friendlyPos="true" lines="4 2"/>
+    <busStop id="2296903047" name="Höschgasse" lane="220388177#0_0" startPos="961.00" endPos="986.00" friendlyPos="true" lines="4 2"/>
+    <busStop id="2296903069" name="Kreuzstrasse" lane="220583817.88_0" startPos="300.92" endPos="325.92" friendlyPos="true" lines="4 2"/>
+    <busStop id="2296903094" name="Opernhaus" lane="220583817_0" startPos="44.48" endPos="69.48" friendlyPos="true" lines="4 2"/>
+    <busStop id="2296910030" name="Feldeggstrasse" lane="220388177#0_0" startPos="1231.25" endPos="1256.25" friendlyPos="true" lines="4 2"/>
+    <busStop id="2296910031" name="Feldeggstrasse" lane="220583817.88_0" startPos="671.70" endPos="696.70" friendlyPos="true" lines="4 2"/>
+    <busStop id="2296910032" name="Kreuzstrasse" lane="220388177#0_0" startPos="1572.91" endPos="1597.91" friendlyPos="true" lines="4 2"/>
+    <busStop id="2296934594" name="Kreuzplatz" lane="220590074_0" startPos="54.59" endPos="79.59" friendlyPos="true" lines="S18 11 8"/>
+    <busStop id="2296959108" name="Römerhof" lane="220592696_0" startPos="836.08" endPos="861.08" friendlyPos="true" lines="3"/>
+    <busStop id="2296971361" name="Römerhof" lane="220638933_0" startPos="98.13" endPos="123.13" friendlyPos="true" lines="3"/>
+    <busStop id="2297304033" name="Hottingerplatz" lane="220638933_0" startPos="470.74" endPos="495.74" friendlyPos="true" lines="3"/>
+    <busStop id="2297304044" name="Hottingerplatz" lane="220592696_0" startPos="381.46" endPos="406.46" friendlyPos="true" lines="3"/>
+    <busStop id="2298045151" name="Rentenanstalt" lane="220427534.486_0" startPos="6.85" endPos="31.85" friendlyPos="true" lines="5"/>
+    <busStop id="2298045162" name="Rentenanstalt" lane="221874274#2_0" startPos="236.20" endPos="261.20" friendlyPos="true" lines="5"/>
+    <busStop id="2298056787" name="Stockerstrasse" lane="220714095#0_0" startPos="31.00" endPos="56.00" friendlyPos="true" lines="13 17 7 6"/>
+    <busStop id="2298056793" name="Stockerstrasse" lane="220714097_0" startPos="89.25" endPos="114.25" friendlyPos="true" lines="6 7 13 17 8"/>
+    <busStop id="2298065520" name="Stockerstrasse" lane="220714868#0_0" startPos="46.56" endPos="71.56" friendlyPos="true" lines="8"/>
+    <busStop id="2308599349" name="Bahnhof Enge" lane="221874271#3_0" startPos="60.54" endPos="85.54" friendlyPos="true" lines="6"/>
+    <busStop id="2308599361" name="Bahnhof Enge" lane="496934556_0" startPos="20.65" endPos="45.65" friendlyPos="true" lines="5"/>
+    <busStop id="2308599369" name="Bahnhof Enge" lane="221874268#1_0" startPos="29.23" endPos="54.23" friendlyPos="true" lines="7"/>
+    <busStop id="2308599403" name="Bahnhof Enge" lane="221874272_0" startPos="28.09" endPos="53.09" friendlyPos="true" lines="5"/>
+    <busStop id="2308599405" name="Bahnhof Enge" lane="221874269#0_0" startPos="19.34" endPos="44.34" friendlyPos="true" lines="5 6 7"/>
+    <busStop id="2308617697" name="Bahnhof Selnau" lane="371342799#5.309_0" startPos="10.95" endPos="35.95" friendlyPos="true" lines="8"/>
+    <busStop id="2308617718" name="Bahnhof Selnau" lane="220714868#1.360_0" startPos="10.02" endPos="35.02" friendlyPos="true" lines="8"/>
+    <busStop id="2308617769" name="Stauffacher" lane="56081883#1_0" startPos="20.96" endPos="45.96" friendlyPos="true" lines="8"/>
+    <busStop id="2309435436" name="Stauffacher" lane="-56081883#5_0" startPos="20.00" endPos="45.48" friendlyPos="true" lines="8"/>
+    <busStop id="2309435445" name="Helvetiaplatz" lane="545740973.648.80.402_0" startPos="10.42" endPos="35.42" friendlyPos="true" lines="8"/>
+    <busStop id="2309435458" name="Helvetiaplatz" lane="221878051#5.349_0" startPos="12.56" endPos="37.56" friendlyPos="true" lines="8"/>
+    <busStop id="2309435510" name="Güterbahnhof" lane="545740973.53_0" startPos="378.17" endPos="403.17" friendlyPos="true" lines="8"/>
+    <busStop id="2309435511" name="Güterbahnhof" lane="221878051#5.1060_0" startPos="15.91" endPos="40.91" friendlyPos="true" lines="8"/>
+    <busStop id="236812338" name="Haldenegg" lane="218284020_0" startPos="359.44" endPos="384.44" friendlyPos="true" lines="10 6"/>
+    <busStop id="2456957772" name="Waffenplatzstrasse" lane="1322085597_0" startPos="658.73" endPos="683.73" friendlyPos="true" lines="5 13 17"/>
+    <busStop id="2457029194" name="Morgental" lane="374553217#0_0" startPos="503.24" endPos="528.24" friendlyPos="true" lines="7"/>
+    <busStop id="2457029233" name="Renggerstrasse" lane="374553217#0_0" startPos="834.94" endPos="859.94" friendlyPos="true" lines="7"/>
+    <busStop id="2457029297" name="Brunaustrasse" lane="374553217#0_0" startPos="2131.07" endPos="2156.07" friendlyPos="true" lines="7"/>
+    <busStop id="253219087" name="Bahnhofstrasse/HB" lane="27405472.113_0" startPos="50.71" endPos="75.71" friendlyPos="true" lines="13 17 7 6 11"/>
+    <busStop id="255265239" name="Central" lane="218283045_0" startPos="13.10" endPos="38.10" friendlyPos="true" lines="10 7 6"/>
+    <busStop id="2554297467" name="Kantonalbank" lane="27429787_0" startPos="182.27" endPos="207.27" friendlyPos="true" lines="11 2 8 9"/>
+    <busStop id="256219114" name="Universität Irchel" lane="144929606_0" startPos="2170.45" endPos="2195.45" friendlyPos="true" lines="10 9"/>
+    <busStop id="262979497" name="Kinkelstrasse" lane="144929606_0" startPos="1308.64" endPos="1333.64" friendlyPos="true" lines="10 9"/>
+    <busStop id="262980090" name="Letzistrasse" lane="144929606_0" startPos="1520.65" endPos="1545.65" friendlyPos="true" lines="10 9"/>
+    <busStop id="264501156" name="ETH/Universitätsspital" lane="144929606_0" startPos="25.17" endPos="50.17" friendlyPos="true" lines="10 9"/>
+    <busStop id="27462593" name="Bellevue" lane="24377559#0.32_0" startPos="15.12" endPos="40.12" friendlyPos="true" lines="5 9"/>
+    <busStop id="29271923" name="Bahnhofquai/HB" lane="23570795_0" startPos="23.51" endPos="78.51" friendlyPos="true" lines="17 14 11 13 4"/>
+    <busStop id="300383806" name="Bellevue" lane="373180901_0" startPos="50.83" endPos="75.83" friendlyPos="true" lines="8 11 2"/>
+    <busStop id="300835690" name="Paradeplatz" lane="220427542#1_0" startPos="19.73" endPos="44.73" friendlyPos="true" lines="2 8 9"/>
+    <busStop id="300835765" name="Paradeplatz" lane="220427540_0" startPos="65.09" endPos="90.09" friendlyPos="true" lines="11"/>
+    <busStop id="301139406" name="Sihlquai/HB" lane="1279973150_0" startPos="46.80" endPos="71.80" friendlyPos="true" lines="17 13 4"/>
+    <busStop id="321340262" name="Bürkliplatz" lane="27576469_0" startPos="25.56" endPos="50.56" friendlyPos="true" lines="5 9 8 11 2"/>
+    <busStop id="337989384" name="Hardplatz" lane="545740973_0" startPos="14.73" endPos="39.73" friendlyPos="true" lines="8"/>
+    <busStop id="370305299" name="Paradeplatz" lane="98873372#0_0" startPos="69.29" endPos="94.29" friendlyPos="true" lines="13 17 7 6"/>
+    <busStop id="3930401012" name="Haldenbach" lane="218811881_0" startPos="2179.86" endPos="2204.86" friendlyPos="true" lines="10 9"/>
+    <busStop id="442522935" name="Bahnhof Stadelhofen" lane="37726768#2_0" startPos="33.56" endPos="58.56" friendlyPos="true" lines="15 8 11"/>
+    <busStop id="4878436673" name="Kunsthaus" lane="217408202#0.759_0" startPos="10.21" endPos="35.21" friendlyPos="true" lines="3"/>
+    <busStop id="4878436674" name="Kunsthaus" lane="218931365#2_0" startPos="36.95" endPos="61.95" friendlyPos="true" lines="3"/>
+    <busStop id="4878436681" name="Bäckeranlage" lane="-4803465#5_0" startPos="50.92" endPos="75.92" friendlyPos="true" lines="8"/>
+    <busStop id="4878436682" name="Bäckeranlage" lane="4803465#0_0" startPos="16.30" endPos="41.30" friendlyPos="true" lines="8"/>
+    <busStop id="4880303435" name="Sonneggstrasse" lane="218986593_0" startPos="995.73" endPos="1020.73" friendlyPos="true" lines="15 7"/>
+    <busStop id="4880303436" name="Sonneggstrasse" lane="218283039_0" startPos="414.40" endPos="439.40" friendlyPos="true" lines="7 15"/>
+    <busStop id="4880303437" name="Röslistrasse" lane="218986593_0" startPos="312.64" endPos="337.64" friendlyPos="true" lines="15 7"/>
+    <busStop id="4880303438" name="Röslistrasse" lane="218283039_0" startPos="1094.99" endPos="1119.99" friendlyPos="true" lines="7 15"/>
+    <busStop id="4880303439" name="Kreuzplatz" lane="220590073.291_0" startPos="90.25" endPos="115.25" friendlyPos="true" lines="S18 8 11"/>
+    <busStop id="4881705890" name="Bahnhof Wiedikon" lane="237820126#0_0" startPos="16.38" endPos="41.38" friendlyPos="true" lines="9 14"/>
+    <busStop id="4881705891" name="Schmiede Wiedikon" lane="373189609.913_0" startPos="30.47" endPos="55.47" friendlyPos="true" lines="9 14"/>
+    <busStop id="4881705892" name="Schmiede Wiedikon" lane="237820127.336_0" startPos="29.67" endPos="54.67" friendlyPos="true" lines="9 14"/>
+    <busStop id="4881705897" name="Bahnhofplatz/HB" lane="217403564.98_0" startPos="20.62" endPos="45.62" friendlyPos="true" lines="10 17 3 14 6"/>
+    <busStop id="4881705898" name="Bahnhofplatz/HB" lane="217443210#1.28_0" startPos="40.15" endPos="65.15" friendlyPos="true" lines="10 14 3"/>
+    <busStop id="4883672596" name="Central" lane="217408202#0_0" startPos="0.00" endPos="25.00" friendlyPos="true" lines="3"/>
+    <busStop id="4883794023" name="Opernhaus" lane="220388177#0.1884_0" startPos="10.00" endPos="35.76" friendlyPos="true" lines="4 2"/>
+    <busStop id="4883794024" name="Bellevue" lane="373181616_0" startPos="12.23" endPos="37.23" friendlyPos="true" lines="4 15"/>
+    <busStop id="4885628622" name="Tunnelstrasse" lane="220726217#0_0" startPos="108.58" endPos="133.58" friendlyPos="true" lines="6 7 13 17"/>
+    <busStop id="4885628623" name="Tunnelstrasse" lane="220714095#3.141_0" startPos="18.63" endPos="43.63" friendlyPos="true" lines="13 17 7 6"/>
+    <busStop id="4885628624" name="Bahnhof Enge/Bederstrasse" lane="1322085597_0" startPos="78.07" endPos="103.07" friendlyPos="true" lines="5 13 17"/>
+    <busStop id="4885628625" name="Bahnhof Enge/Bederstrasse" lane="237832435_0" startPos="733.58" endPos="758.58" friendlyPos="true" lines="5 13 17"/>
+    <busStop id="4885628628" name="Waffenplatzstrasse" lane="237832435_0" startPos="350.45" endPos="375.45" friendlyPos="true" lines="5 13 17"/>
+    <busStop id="4885807564" name="Voltastrasse" lane="218971865_0" startPos="537.77" endPos="562.77" friendlyPos="true" lines="5 6"/>
+    <busStop id="4885862778" name="Museum Rietberg" lane="374553217#0_0" startPos="2652.39" endPos="2677.39" friendlyPos="true" lines="7"/>
+    <busStop id="4885862779" name="Museum Rietberg" lane="221874268#1_0" startPos="421.69" endPos="446.69" friendlyPos="true" lines="7"/>
+    <busStop id="4885862780" name="Brunaustrasse" lane="221874268#1_0" startPos="949.69" endPos="974.69" friendlyPos="true" lines="7"/>
+    <busStop id="4885862781" name="Billoweg" lane="221874268#1_0" startPos="1451.25" endPos="1476.25" friendlyPos="true" lines="7"/>
+    <busStop id="4885862782" name="Billoweg" lane="374553217#0_0" startPos="1624.45" endPos="1649.45" friendlyPos="true" lines="7"/>
+    <busStop id="4885862783" name="Renggerstrasse" lane="221874268#1_0" startPos="2237.77" endPos="2262.77" friendlyPos="true" lines="7"/>
+    <busStop id="4885862788" name="Bahnhof Wollishofen/Staubstrasse" lane="221874268#1_0" startPos="1970.87" endPos="1995.87" friendlyPos="true" lines="7"/>
+    <busStop id="4885862789" name="Bahnhof Wollishofen/Staubstrasse" lane="374553217#0_0" startPos="1107.74" endPos="1132.74" friendlyPos="true" lines="7"/>
+    <busStop id="4885862790" name="Morgental" lane="221874268#1_0" startPos="2581.60" endPos="2606.60" friendlyPos="true" lines="7"/>
+    <busStop id="4885862791" name="Butzenstrasse" lane="221874268#1_0" startPos="2863.44" endPos="2888.44" friendlyPos="true" lines="7"/>
+    <busStop id="4885862792" name="Butzenstrasse" lane="374553217#0_0" startPos="219.49" endPos="244.49" friendlyPos="true" lines="7"/>
+    <busStop id="5033804237" name="Central" lane="217198063.22_0" startPos="10.06" endPos="35.06" friendlyPos="true" lines="15"/>
+    <busStop id="5133221036" name="Hardplatz" lane="401789585#0_0" startPos="29.21" endPos="54.21" friendlyPos="true" lines="8"/>
+    <busStop id="5276753819" name="Bahnhof Hardbrücke" lane="401789584_0" startPos="102.49" endPos="127.49" friendlyPos="true" lines="8"/>
+    <busStop id="5276753820" name="Bahnhof Hardbrücke" lane="401789585#1_0" startPos="369.83" endPos="394.83" friendlyPos="true" lines="8"/>
+    <busStop id="81058533" name="Rennweg" lane="49991796.122_0" startPos="29.52" endPos="54.52" friendlyPos="true" lines="13 17 7 6 11"/>
+    <busStop id="94583344" name="Central" lane="217408193#1_0" startPos="22.50" endPos="57.50" friendlyPos="true" lines="4"/>
+    <!-- Detectors -->
+    <entryExitDetector id="E3_output" pos="0.00,0.00" period="180.00" file="DODE_E3_output_fixed.xml" vTypes="passenger" expectArrival="1">
+        <detEntry lane="120613501_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="120613501_1" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="27410107#0_1" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="27410107#0_2" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="682608864#1_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="682608864#1_1" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="-560707572#2_0" pos="-7.50" friendlyPos="1"/>
+        <detEntry lane="31901962#1_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="5068112#0_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="817867131#0_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="817867131#0_1" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="146778063#0_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="146778063#0_1" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="-146545821#1_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="146778074#3_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="332455382#1.23_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="408534466#0_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="408534466#0_1" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="5772448#0_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="E1_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="550432833#0_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="-543888808_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="559462255#0.13_0" pos="10.00" friendlyPos="1"/>
+        <detEntry lane="534546682#0.19_0" pos="15.00" friendlyPos="1"/>
+        <detEntry lane="534546682#0.19_1" pos="15.00" friendlyPos="1"/>
+        <detEntry lane="4376121#0_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="4376121#0_1" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="-582263960#1_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="-582263960#1_1" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="-172222117#1_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="-172222117#1_1" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="147759326#0_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="332455377#6_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="-E0_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="-4592588_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="-4592588_1" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="-E12_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="26645917#6_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="4533224#8_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="4743773#0_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="26646072#0_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="70748324#0.4_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="5944815#0_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="968498005_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="-817922720#2_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="15218556#2_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="-5881719#0_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="68485349#0_0" pos="7.50" friendlyPos="1"/>
+        <detEntry lane="170045671#1_0" pos="7.50" friendlyPos="1"/>
+        <detExit lane="8139899#1_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="8139899#1_1" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="-27410107#1_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="294148768_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="4687956#0_0" pos="6.50" friendlyPos="1"/>
+        <detExit lane="506653388#0_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="-543129619#2_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="377260491#0_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="377260491#0_1" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="377260491#0_2" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="92142133_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="-146778067#1_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="527481483#0_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="546792882#0_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="-5772448#2_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="E2_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="-26127384#2_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="559462254#0_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="4479820#0_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="4479820#0_1" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="5198100#0_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="5198100#0_1" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="582263960#0_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="582263960#0_1" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="172222117#0_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="172222117#0_1" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="623570426#0_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="147692717#0_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="E0_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="31261713#0_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="E12_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="4533228#0_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="546792884#0_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="4592655#0_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="-26646072#1_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="-70748324#1_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="-70748324#1_1" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="-70748324#1_2" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="-172288344#1_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="27473985#0_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="-15218556#5_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="5881719#0_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="826204850#2_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="71160126#0_0" pos="-6.50" friendlyPos="1"/>
+        <detExit lane="71160126#0_1" pos="-6.50" friendlyPos="1"/>
+    </entryExitDetector>
+</additional>

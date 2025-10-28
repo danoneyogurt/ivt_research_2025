@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-05-30 07:48:10 by Eclipse SUMO sumo Version 1.22.0
+-->
+
+<sumoConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="merged2_actuated.net.xml"/>
+        <route-files value="merged_actuated.rou.xml"/>
+        <additional-files value="DODE_new_actuated.add.xml,DODE_actuated.med.add.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="tripinfo_actuated.xml"/>
+    </output>
+
+    <time>
+        <begin value="21600"/>
+        <end value="39600"/>
+        <step-length value="0.25"/>
+    </time>
+
+    <processing>
+        <ignore-route-errors value="true"/>
+        <time-to-teleport value="-1"/>
+        <tls.actuated.show-detectors value="true"/>
+        <tls.actuated.jam-threshold value="30"/>
+    </processing>
+
+    <report>
+        <verbose value="true"/>
+        <message-log value="AAATLS0.xml"/>
+    </report>
+
+</sumoConfiguration>
